@@ -1,0 +1,13 @@
+C:\Users\Fernando\source\repos\MDSNDemo2\bin\Debug\MDSNDemo2.exe.config
+C:\Users\Fernando\source\repos\MDSNDemo2\bin\Debug\MDSNDemo2.exe
+C:\Users\Fernando\source\repos\MDSNDemo2\bin\Debug\MDSNDemo2.pdb
+C:\Users\Fernando\source\repos\MDSNDemo2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Fernando\source\repos\MDSNDemo2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Fernando\source\repos\MDSNDemo2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.csprojAssemblyReference.cache
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.Form1.resources
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.Properties.Resources.resources
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.csproj.GenerateResource.cache
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.csproj.CopyComplete
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.exe
+C:\Users\Fernando\source\repos\MDSNDemo2\obj\Debug\MDSNDemo2.pdb
