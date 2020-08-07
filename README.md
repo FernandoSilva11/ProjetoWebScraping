@@ -8,7 +8,7 @@ O projeto faz uso da biblioteca HTMLAgilyPack
 
 Algumas fotos do programa 
 
-![webScrapping1]((https://user-images.githubusercontent.com/50935903/78242026-b6077280-74b7-11ea-92fb-53ab6ee267c4.PNG)
+![webScrapping1](https://user-images.githubusercontent.com/50935903/78242026-b6077280-74b7-11ea-92fb-53ab6ee267c4.PNG)
 
 ![webScrapping2](https://user-images.githubusercontent.com/50935903/78242060-c3246180-74b7-11ea-83e8-ee3b251806b1.PNG)
 
