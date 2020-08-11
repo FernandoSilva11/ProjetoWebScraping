@@ -12,6 +12,6 @@ Algumas fotos do programa
 
 ![webScrapping2](https://user-images.githubusercontent.com/50935903/78242060-c3246180-74b7-11ea-83e8-ee3b251806b1.PNG)
 
-  ![webScrapping3](https://github.com/FernandoSilva11/CrudAspNetCore/blob/master/TelaInicial.PNG)
+
 Para desenvolver esse projeto utilizei o tutorial do canal Coding Night Link:https://www.youtube.com/watch?v=tXGJMUY_pPcc e adicionei 
 comentários no código.
